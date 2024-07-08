@@ -14,6 +14,6 @@ DrowsinessDetectiontesting: This file contains the code used to test the trained
 This repository provides a detailed workflow for developing a drowsiness detection system using the YOLOv8 model. The process includes collecting and annotating a dataset, training the model, and testing it in real-time scenarios. The trained model, best.pt, is the result of fine-tuning the YOLOv8 model on the drowsiness detection dataset.
 
 ![sss](https://github.com/malikhadi09/Drowsiness-Trained-Model-YOLOV8-/assets/92660593/de6e068c-1da3-4537-befb-326c6acd292c)
-![Screenshot 2024-07-02 192849](https://github.com/malikhadi09/Drowsiness-Trained-Model-YOLOV8-/assets/92660593/63427236-c3a5-4747-863c-77e95af6e738)
 
+![Picsart_24-07-08_12-22-35-043](https://github.com/malikhadi09/Drowsiness-Trained-Model-YOLOV8-/assets/92660593/9a88a97e-626f-4f4d-854c-d774b5ec4e24)
 
