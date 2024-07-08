@@ -1,6 +1,3 @@
-# Drowsiness-Trained-Model-YOLOV8-
-This repository contains code to train a YOLOv8 model for drowsiness detection, including loading a pre-trained model, training on a custom dataset for 20 epochs, and saving the trained model.
-
 # YOLO Model Training for Drowsiness Detection
 This repository provides comprehensive code and instructions for training a YOLOv8 model to detect drowsiness. Below are the details of the process, including dataset collection, training, testing, and saving the trained model.
 
